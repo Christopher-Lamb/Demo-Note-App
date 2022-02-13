@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/christopher-lamb.github.io/demo-note-app/static/css/main.c0160376.chunk.css",
-    "main.js": "/christopher-lamb.github.io/demo-note-app/static/js/main.1b35f835.chunk.js",
-    "main.js.map": "/christopher-lamb.github.io/demo-note-app/static/js/main.1b35f835.chunk.js.map",
-    "runtime-main.js": "/christopher-lamb.github.io/demo-note-app/static/js/runtime-main.f709ac6c.js",
-    "runtime-main.js.map": "/christopher-lamb.github.io/demo-note-app/static/js/runtime-main.f709ac6c.js.map",
-    "static/js/2.30365bb2.chunk.js": "/christopher-lamb.github.io/demo-note-app/static/js/2.30365bb2.chunk.js",
-    "static/js/2.30365bb2.chunk.js.map": "/christopher-lamb.github.io/demo-note-app/static/js/2.30365bb2.chunk.js.map",
-    "index.html": "/christopher-lamb.github.io/demo-note-app/index.html",
-    "static/css/main.c0160376.chunk.css.map": "/christopher-lamb.github.io/demo-note-app/static/css/main.c0160376.chunk.css.map",
-    "static/js/2.30365bb2.chunk.js.LICENSE.txt": "/christopher-lamb.github.io/demo-note-app/static/js/2.30365bb2.chunk.js.LICENSE.txt"
+    "main.css": "/snake-game-react/static/css/main.c0160376.chunk.css",
+    "main.js": "/snake-game-react/static/js/main.1b35f835.chunk.js",
+    "main.js.map": "/snake-game-react/static/js/main.1b35f835.chunk.js.map",
+    "runtime-main.js": "/snake-game-react/static/js/runtime-main.3e19a54f.js",
+    "runtime-main.js.map": "/snake-game-react/static/js/runtime-main.3e19a54f.js.map",
+    "static/js/2.30365bb2.chunk.js": "/snake-game-react/static/js/2.30365bb2.chunk.js",
+    "static/js/2.30365bb2.chunk.js.map": "/snake-game-react/static/js/2.30365bb2.chunk.js.map",
+    "index.html": "/snake-game-react/index.html",
+    "static/css/main.c0160376.chunk.css.map": "/snake-game-react/static/css/main.c0160376.chunk.css.map",
+    "static/js/2.30365bb2.chunk.js.LICENSE.txt": "/snake-game-react/static/js/2.30365bb2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f709ac6c.js",
+    "static/js/runtime-main.3e19a54f.js",
     "static/js/2.30365bb2.chunk.js",
     "static/css/main.c0160376.chunk.css",
     "static/js/main.1b35f835.chunk.js"
