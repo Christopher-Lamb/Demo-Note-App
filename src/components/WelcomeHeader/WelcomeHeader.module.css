@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 150px;
+  width: 100%;
+  background: #0c76b1;
+  color: rgba(0, 0, 0, 0.726);
+  text-shadow: 0px 2px 3px rgba(160, 160, 160, 0.514);
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  animation: gradient 15s ease infinite;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  background-size: 400% 400%;
+  user-select: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.text {
+  position: absolute;
+  font-size: 60px;
+}
+
+@media (max-width: 375px) {
+  .text {
+    font-size: 45px;
+  }
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
